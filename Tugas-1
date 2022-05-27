@@ -1,1 +1,45 @@
-
+const biodata = {
+    name: "Trevin Kurnia Ramadhan",
+    age: 23,
+    hobbies: ["masak", "nonton", "main"],
+    isMarried: false,
+    schoolList: [{
+      name: "SDN Margahayu 2",
+      yearIn: 0, 
+      yearOut: 0,
+      major: null
+    }, {
+        name: "SMPN 12 Bekasi",
+        yearIn: 0, 
+        yearOut: 0,
+        major: null
+    }, {
+        name: "SMAN 5 Bekasi",
+        yearIn: 0, 
+        yearOut: 0,
+        major: "IPA"
+    }, {
+        name: "Universitas Padjajaran",
+        yearIn: 0,
+        yearOut: 0,
+        major: "Sastra Arab"
+    }
+],
+    skills: [{
+      skillName: "Cooking",
+      level: "beginner",
+    }, {
+      skillName: "coding",
+      level: "beginner"
+    },
+    {
+      skillName: "english"
+      level: "advance"
+    },
+    {
+      skillName: "arabic",
+      level: "beginner"
+    }
+],
+    interestInCoding: true
+}
