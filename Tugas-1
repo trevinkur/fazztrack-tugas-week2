@@ -5,23 +5,23 @@ const biodata = {
     isMarried: false,
     schoolList: [{
       name: "SDN Margahayu 2",
-      yearIn: 0, 
-      yearOut: 0,
+      yearIn: 2005, 
+      yearOut: 2011,
       major: null
     }, {
         name: "SMPN 12 Bekasi",
-        yearIn: 0, 
-        yearOut: 0,
+        yearIn: 2011, 
+        yearOut: 2014,
         major: null
     }, {
         name: "SMAN 5 Bekasi",
-        yearIn: 0, 
-        yearOut: 0,
+        yearIn: 2014, 
+        yearOut: 2017,
         major: "IPA"
     }, {
         name: "Universitas Padjajaran",
-        yearIn: 0,
-        yearOut: 0,
+        yearIn: 2017,
+        yearOut: null,
         major: "Sastra Arab"
     }
 ],
