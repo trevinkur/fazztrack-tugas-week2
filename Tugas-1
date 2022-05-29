@@ -33,7 +33,7 @@ const biodata = {
       level: "beginner"
     },
     {
-      skillName: "english"
+      skillName: "english",
       level: "advance"
     },
     {
