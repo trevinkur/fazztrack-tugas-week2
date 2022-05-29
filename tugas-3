@@ -1,1 +1,17 @@
+const printSegitiga = 5;
 
+if(typeof(printSegitiga) != "number" ) {
+    console.log("please input a number")
+} else {
+    print()
+}
+
+function print() {
+    for(let i = printSegitiga; i >=0; i--) {
+        let text = "";
+        for(let j = 1; j <= i; j++) {
+            text += j;
+        }
+        console.log(text)
+    }
+}
